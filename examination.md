@@ -102,7 +102,7 @@ $$
 
 
 ## 6. Однослойный персептрон (структура, алгоритм обучения).
-![Альтернативный текст](https://scask.ru/archive/arch.php?path=../htm/stu.scask/book_ins/files.book&file=ins_17.files/image2.gif)
+![Альтернативный текст](https://intuit.ru/EDI/21_01_20_1/1579558792-21349/tutorial/25/objects/11/files/11_4.png)
 
 ## 7. Многослойный персептрон (структура, алгоритм обучения).
 
